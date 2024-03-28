@@ -57,5 +57,22 @@ https://github.com/ellendias01/Jogo-Candy/assets/145167118/2608f987-e50a-4c1d-95
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# Detalhes Técnicos 🗒️
+
+- O jogo foi feito usando a plataforma Construct 3. **Mais informações em [Construct.net](https://editor.construct.net/).**
+
+- Foi utilizado o site 000Webhost para hospedar o banco de dados. **Mais detalhes em [000Webhost](https://www.000webhost.com/).**
+
+- A liguagem de programação escolhida para criar o banco de dados foi PHP.
+
+- O jogo finalizado e conectado com o banco foi hospedado no Netlify. **Saiba mais sobre o Netlify em [Netlify](https://www.netlify.com/).**
+
+- As imagens do jogo foram obtidas através da plataforma Kenney. **Veja a coleção de imagens em [Kenney](https://kenney.nl/assets/series:Pixel%20Platformer).**
+
+- O projeto foi desenvolvido como parte de um trabalho acadêmico na faculdade.
+
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Link do jogo: https://jogocandy.netlify.app/
 
