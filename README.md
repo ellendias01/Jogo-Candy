@@ -74,5 +74,6 @@ https://github.com/ellendias01/Jogo-Candy/assets/145167118/2608f987-e50a-4c1d-95
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Link do jogo: https://jogocandy.netlify.app/
+## Venha se juntar à caçada épica contra os bugs e saborear as delícias digitais em "Jogo Candy"! 🍰
+**Link do jogo: https://jogocandy.netlify.app/**
 
