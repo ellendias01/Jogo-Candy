@@ -21,9 +21,14 @@ Prepare-se para uma aventura emocionante, onde a coragem e a fome se encontram!
 
 # Imagens do Jogo 💻
 <hr>
-<img scr= /videos/Jogo-Candy.mp4>
+
+
+
+
+
 
 # Video de Game Play do jogo 📹
+
 
 <hr>
 
