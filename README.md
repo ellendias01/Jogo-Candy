@@ -63,7 +63,7 @@ https://github.com/ellendias01/Jogo-Candy/assets/145167118/2608f987-e50a-4c1d-95
 
 - Foi utilizado o site 000Webhost para hospedar o banco de dados. **Mais detalhes em [000Webhost](https://www.000webhost.com/).**
 
-- A liguagem de programação escolhida para criar o banco de dados foi PHP.
+- A linguagem de programação escolhida para criar o banco de dados foi PHP.
 
 - O jogo finalizado e conectado com o banco foi hospedado no Netlify. **Saiba mais sobre o Netlify em [Netlify](https://www.netlify.com/).**
 
